@@ -1,16 +1,16 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙
 
-<!--
-**gabriel-1C/gabriel-1c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Gabriel silva
 
-Here are some ideas to get you started:
+- Estou estudando no Fabio barreto e faço o curso do [Alura](https://www.alura.com.br)
+- Estou apredendo a linguagem do Javascript
+- Utilizo ele para compartilha meus projetos e meus pensamentos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Se quizer entra em contato comigo 📪
+
+- 00001165141905sp@al.educacao.sp.gov.br
+- @alunogabriel1c
+
+
+ ![](https://media1.tenor.com/m/2ReUQeXk9psAAAAC/naruto.gif)
+  
